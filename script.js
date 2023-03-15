@@ -5,7 +5,7 @@ const tempdes=document.querySelector(".temperature-description p");
 const locationelement=document.querySelector(".location p");
 
 const KELVIN = 273;
-const key = "e5912e388591d6bd2b3bc508fc88542b";
+const key = ""; // signup with weather api and api key goes here
 
 
 const weather={};
